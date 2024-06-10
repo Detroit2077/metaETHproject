@@ -1,6 +1,6 @@
 # Project
 
-A simple smart contract that provides functionalities like minting and burning and maintain the record
+A simple smart contract that provide functionalities like minting and burning and maintain the record
 
 ## Description
 
@@ -21,7 +21,7 @@ tokenContract.sol is a smart contract impelemented in Solidity, designed to demo
 ```
 
 ## Executing program
-Open the contract file tokenContract in your preferred Solidity development environment (e.g., Remix).
+Open the contract file tokenContract on your preferred Solidity development environment (e.g., Remix).
 Compile the contract:
 ```sh
 In Remix, click on the side section called "Solidity Compiler" and then compile it using "Compile tokenContract.sol"
@@ -37,7 +37,7 @@ Interact with the contract using the deployed instance. You can then pass the pa
 In case any problem or error occurs, make sure you have correct Solidity version and along with the directory. Check on the parameters.
 
 ```sh
-For additional help, you can even refer to Remix documentation or Solidity documentation
+For additional help, you can even refer Remix documentation or Solidity documentation
 ```
 ## Contributors Details
 
